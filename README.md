@@ -24,7 +24,7 @@ gcc client.c -o client
 ```
 ./server
 ```
-- Run the client(s) (values for the port can be 11111, 22222, 33333, or 44444):
+- Run the client(s) (values for the port can be 11111, 22222, 33333, 44444, 55555):
 ```
 ./client localhost <port>
 ```
