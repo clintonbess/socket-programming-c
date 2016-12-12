@@ -8,7 +8,7 @@
 ```
 git clone https://github.com/clintonbess/socket-programming-c.git
 ```
-- Navigate to the socket-example directory:
+- Navigate to the socket-programming-c directory:
 ```
 cd socket-programming-c
 ```
@@ -24,7 +24,7 @@ gcc client.c -o client
 ```
 ./server
 ```
-- Run the client(s) (values for the port can be 11111, 22222, 33333, 44444, 55555):
+- Run the client(s) (values for the port can be 11111, 22222, 33333, 44444, or 55555):
 ```
 ./client localhost <port>
 ```
